@@ -1,6 +1,6 @@
 # Wordle Python
 
-** A Wordle Clone made in Python **
+**A Wordle Clone made in Python**
 
 This is a quick project that I made after playing this simples yet very intriging game called Wordle wich you may or may not know, if you want to play
 the original one [click here](https://www.nytimes.com/games/wordle/index.html).
